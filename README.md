@@ -1,4 +1,4 @@
-# LuyenTapCode
+# LuyenTapCode:
 Bài 1: Tính S(n) = 1 + 2 + 3 + … + n
 Bài 2: Tính S(n) = 1^2 + 2^2 + … + n^2
 Bài 3: Tính S(n) = 1 + ½ + 1/3 + … + 1/n
