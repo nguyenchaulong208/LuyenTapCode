@@ -1,0 +1,7 @@
+G:\GITHUB UPLOAD\LuyenTapCode\LuyenTap\LuyenTap\obj\Debug\LuyenTap.csproj.AssemblyReference.cache
+G:\GITHUB UPLOAD\LuyenTapCode\LuyenTap\LuyenTap\obj\Debug\LuyenTap.csproj.CoreCompileInputs.cache
+G:\GITHUB UPLOAD\LuyenTapCode\LuyenTap\LuyenTap\bin\Debug\LuyenTap.exe.config
+G:\GITHUB UPLOAD\LuyenTapCode\LuyenTap\LuyenTap\bin\Debug\LuyenTap.exe
+G:\GITHUB UPLOAD\LuyenTapCode\LuyenTap\LuyenTap\bin\Debug\LuyenTap.pdb
+G:\GITHUB UPLOAD\LuyenTapCode\LuyenTap\LuyenTap\obj\Debug\LuyenTap.exe
+G:\GITHUB UPLOAD\LuyenTapCode\LuyenTap\LuyenTap\obj\Debug\LuyenTap.pdb
