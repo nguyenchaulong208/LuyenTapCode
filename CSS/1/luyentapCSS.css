@@ -1,0 +1,168 @@
+body{
+    /* background-color: lightblue; */
+      /* background-image: url(images/photo.png); */
+    /* color:red; */
+    /* background-repeat: repeat-y; */
+    /* background-image: repeat-x; */
+     /* background-repeat: no-repeat; */
+    /* background-position: right top; */
+    /* background-attachment: scroll; */
+    background: pink url(images/photo.png) no-repeat right top fixed;
+
+}
+/* h1{ */
+    /* background-color: green; */
+    /* background-image: url(images/2.jpg); */
+/* } */
+/* div{ */
+    /* background-color: yellow;
+    opacity: 0.5; */
+    /* background-image: url(images/1.jpg); */
+/* } */
+/* p{ */
+    /* background-color: red; */
+    /* background-image: url(images/3.jpg); */
+/* } */
+/* Border */
+p.dotted {border-style: dotted;}
+p.dashed{border-style: dashed;}
+p.solid{border-style: solid;}
+p.double{border-style:double;}
+p.groove{border-style: groove;}
+p.ridge{border-style:right;}
+p.insert{border-style: inset;}
+p.outset{border-style: outset;}
+p.none{border-style: none;}
+p.hidden{border-style: hidden;}
+p.mix{border-style: dotted dashed solid double;}
+
+/* Border Color */
+p.one{
+    border-style:solid;
+    border-color: red;
+}
+p.two{
+    border-style:solid;
+    border-color:green;
+}
+p.three{
+    border-style:dotted;
+    border-color:blue;
+    border-top: double red 10px;
+}
+p.four {
+    border-bottom: 6px solid yellow;
+  }
+  p.five{
+    border: 5px solid orange;
+  }
+  p.six{
+    border: solid 5px purple;
+   
+  }
+
+  /* Link */
+  /* a{
+    color:brown;
+  } */
+  a:link{
+    color:brown;
+    text-decoration: none;
+    background-color: yellow;
+  }
+  a:visited{
+    color:red;
+    text-decoration: none;
+    background-color: cyan;
+  }
+  a:hover {
+    color: hotpink;
+    text-decoration: underline;
+    background-color: lightgreen;
+  }
+  a:active {
+    color: white;
+    text-decoration: underline;
+    background-color: hotpink;
+  }
+
+  /* The cursor property */
+    .auto{
+        cursor: auto;
+    }
+    .default{
+        cursor: default;
+    }
+    .none{
+        cursor: none;
+    }
+    .crosshair{
+        cursor: crosshair;
+    }
+    .black-box {
+      position: relative;
+      z-index: -1;
+      border: 2px solid black;
+      height: 100px;
+      margin: 30px;
+    }
+    
+    /* Border-radius */
+    .borderEx{
+      border-radius: 25px;
+      background: #73AD21;
+      padding:  20px;
+      width: 200px;
+      height: 150px;
+
+    }
+    #rcorners1 {
+      border-radius: 15px 50px 30px 5px;
+      background: #73AD21;
+      padding: 20px; 
+      width: 200px;
+      height: 150px; 
+    }
+    
+    #rcorners2 {
+      border-radius: 15px 50px 30px;
+      background: #73AD21;
+      padding: 20px; 
+      width: 200px;
+      height: 150px; 
+    }
+    
+    #rcorners3 {
+      border-radius: 15px 50px;
+      background: #73AD21;
+      padding: 20px; 
+      width: 200px;
+      height: 150px; 
+    } 
+    
+    #rcorners4 {
+      border-radius: 15px;
+      background: #73AD21;
+      padding: 20px; 
+      width: 200px;
+      height: 150px; 
+    } 
+    /* Animations *//* The animation code */
+
+
+/* The element to apply the animation to */
+.keyframesEx {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  animation-name: example;
+  animation-duration: 4s;
+}
+.keyframesEx2 {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  animation-name: example;
+  animation-duration: 4s;
+  animation-iteration-count: 3;
+}

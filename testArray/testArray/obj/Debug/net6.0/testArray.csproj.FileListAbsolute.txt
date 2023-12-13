@@ -1,0 +1,14 @@
+G:\GITHUB UPLOAD\LuyenTapCode\testArray\testArray\bin\Debug\net6.0\testArray.exe
+G:\GITHUB UPLOAD\LuyenTapCode\testArray\testArray\bin\Debug\net6.0\testArray.deps.json
+G:\GITHUB UPLOAD\LuyenTapCode\testArray\testArray\bin\Debug\net6.0\testArray.runtimeconfig.json
+G:\GITHUB UPLOAD\LuyenTapCode\testArray\testArray\bin\Debug\net6.0\testArray.dll
+G:\GITHUB UPLOAD\LuyenTapCode\testArray\testArray\bin\Debug\net6.0\testArray.pdb
+G:\GITHUB UPLOAD\LuyenTapCode\testArray\testArray\obj\Debug\net6.0\testArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\GITHUB UPLOAD\LuyenTapCode\testArray\testArray\obj\Debug\net6.0\testArray.AssemblyInfoInputs.cache
+G:\GITHUB UPLOAD\LuyenTapCode\testArray\testArray\obj\Debug\net6.0\testArray.AssemblyInfo.cs
+G:\GITHUB UPLOAD\LuyenTapCode\testArray\testArray\obj\Debug\net6.0\testArray.csproj.CoreCompileInputs.cache
+G:\GITHUB UPLOAD\LuyenTapCode\testArray\testArray\obj\Debug\net6.0\testArray.dll
+G:\GITHUB UPLOAD\LuyenTapCode\testArray\testArray\obj\Debug\net6.0\refint\testArray.dll
+G:\GITHUB UPLOAD\LuyenTapCode\testArray\testArray\obj\Debug\net6.0\testArray.pdb
+G:\GITHUB UPLOAD\LuyenTapCode\testArray\testArray\obj\Debug\net6.0\testArray.genruntimeconfig.cache
+G:\GITHUB UPLOAD\LuyenTapCode\testArray\testArray\obj\Debug\net6.0\ref\testArray.dll
