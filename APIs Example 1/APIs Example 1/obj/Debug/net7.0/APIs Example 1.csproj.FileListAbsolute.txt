@@ -1,0 +1,30 @@
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\bin\Debug\net7.0\appsettings.Development.json
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\bin\Debug\net7.0\appsettings.json
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\bin\Debug\net7.0\APIs Example 1.staticwebassets.runtime.json
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\bin\Debug\net7.0\APIs Example 1.exe
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\bin\Debug\net7.0\APIs Example 1.deps.json
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\bin\Debug\net7.0\APIs Example 1.runtimeconfig.json
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\bin\Debug\net7.0\APIs Example 1.dll
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\bin\Debug\net7.0\APIs Example 1.pdb
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\obj\Debug\net7.0\APIs Example 1.GeneratedMSBuildEditorConfig.editorconfig
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\obj\Debug\net7.0\APIs Example 1.AssemblyInfoInputs.cache
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\obj\Debug\net7.0\APIs Example 1.AssemblyInfo.cs
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\obj\Debug\net7.0\APIs Example 1.csproj.CoreCompileInputs.cache
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\obj\Debug\net7.0\APIs Example 1.MvcApplicationPartsAssemblyInfo.cache
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\obj\Debug\net7.0\APIs Example 1.RazorAssemblyInfo.cache
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\obj\Debug\net7.0\APIs Example 1.RazorAssemblyInfo.cs
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\obj\Debug\net7.0\staticwebassets\msbuild.APIs Example 1.Microsoft.AspNetCore.StaticWebAssets.props
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\obj\Debug\net7.0\staticwebassets\msbuild.build.APIs Example 1.props
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.APIs Example 1.props
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.APIs Example 1.props
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\obj\Debug\net7.0\staticwebassets.pack.json
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\obj\Debug\net7.0\staticwebassets.build.json
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\obj\Debug\net7.0\staticwebassets.development.json
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\obj\Debug\net7.0\scopedcss\bundle\APIs Example 1.styles.css
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\obj\Debug\net7.0\scopedcss\projectbundle\APIs Example 1.bundle.scp.css
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\obj\Debug\net7.0\APIs Example 1.dll
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\obj\Debug\net7.0\refint\APIs Example 1.dll
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\obj\Debug\net7.0\APIs Example 1.pdb
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\obj\Debug\net7.0\APIs Example 1.genruntimeconfig.cache
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example 1\APIs Example 1\obj\Debug\net7.0\ref\APIs Example 1.dll

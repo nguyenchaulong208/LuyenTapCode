@@ -1,0 +1,33 @@
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\bin\Debug\net7.0\appsettings.Development.json
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\bin\Debug\net7.0\appsettings.json
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\bin\Debug\net7.0\APIs Example.exe
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\bin\Debug\net7.0\APIs Example.deps.json
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\bin\Debug\net7.0\APIs Example.runtimeconfig.json
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\bin\Debug\net7.0\APIs Example.dll
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\bin\Debug\net7.0\APIs Example.pdb
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\obj\Debug\net7.0\APIs Example.csproj.AssemblyReference.cache
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\obj\Debug\net7.0\APIs Example.GeneratedMSBuildEditorConfig.editorconfig
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\obj\Debug\net7.0\APIs Example.AssemblyInfoInputs.cache
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\obj\Debug\net7.0\APIs Example.AssemblyInfo.cs
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\obj\Debug\net7.0\APIs Example.csproj.CoreCompileInputs.cache
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\obj\Debug\net7.0\APIs Example.MvcApplicationPartsAssemblyInfo.cs
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\obj\Debug\net7.0\APIs Example.MvcApplicationPartsAssemblyInfo.cache
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\obj\Debug\net7.0\staticwebassets\msbuild.APIs Example.Microsoft.AspNetCore.StaticWebAssets.props
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\obj\Debug\net7.0\staticwebassets\msbuild.build.APIs Example.props
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.APIs Example.props
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.APIs Example.props
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\obj\Debug\net7.0\staticwebassets.pack.json
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\obj\Debug\net7.0\staticwebassets.build.json
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\obj\Debug\net7.0\staticwebassets.development.json
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\obj\Debug\net7.0\scopedcss\bundle\APIs Example.styles.css
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\obj\Debug\net7.0\APIs Example.csproj.CopyComplete
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\obj\Debug\net7.0\APIs Example.dll
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\obj\Debug\net7.0\refint\APIs Example.dll
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\obj\Debug\net7.0\APIs Example.pdb
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\obj\Debug\net7.0\APIs Example.genruntimeconfig.cache
+G:\GITHUB UPLOAD\LuyenTapCode\APIs Example\APIs Example\obj\Debug\net7.0\ref\APIs Example.dll
