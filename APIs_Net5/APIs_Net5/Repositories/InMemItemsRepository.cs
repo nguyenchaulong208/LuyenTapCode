@@ -2,7 +2,7 @@
 
 namespace APIs_Net5.Repositories
 {
-    public class InMemItemsRepository
+    public class InMemItemsRepository : IInMemItemsRepository
     {
         //Create a list of Item
         //thiết lập một danh sách các Item (đối tượng) với từ khóa private readonly

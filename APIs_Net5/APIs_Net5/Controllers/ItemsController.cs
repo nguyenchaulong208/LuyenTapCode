@@ -12,20 +12,24 @@ namespace APIs_Net5.Controllers
     public class ItemsController : Controller
     {
         
-            private readonly InMemItemsRepository repository;
+          //private readonly InMemItemsRepository repository; //=> cách này không sử dụng được
+         //vì vi phạm nguyên tắc SOLID (Interface segregation principle)
+        //Vì truy cập trực tiếp vào repository sẽ làm cho controller này phụ thuộc vào repository
+        private readonly IInMemItemsRepository repository;
         //Tạo constructor
-            public ItemsController()
-            {
-                repository = new InMemItemsRepository();
-
-            }
+        public ItemsController(IInMemItemsRepository repository)
+        {
+         this.repository = repository;
+        }
+        
         //Tạo phương thức Get để lấy tất cả các mục Item
         [HttpGet]
+        //Gọi phương thức GetItems() từ InMemItemsRepository
            public IEnumerable<Item> GetItems()
            {
-            //Gọi phương thức GetItems() từ InMemItemsRepository
-            var items = repository.GetItems();
-               return items;
+            
+                var items = repository.GetItems();
+                return items;
            }
 /*****************************************************************/
     //Tao phương thức Get để lấy một mục Item theo Id

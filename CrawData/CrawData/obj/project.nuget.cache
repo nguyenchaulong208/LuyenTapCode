@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RWH8br2mAIuHo6r1XwMAbqvvvijuO64WeM7art4UaaVsMEogpW85kj80Jt5huHczrHrTsaqsFvh/HtVnaJlNaQ==",
+  "success": true,
+  "projectFilePath": "G:\\GITHUB UPLOAD\\LuyenTapCode\\CrawData\\CrawData\\CrawlData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LONG\\.nuget\\packages\\microsoft.web.webview2\\1.0.2210.55\\microsoft.web.webview2.1.0.2210.55.nupkg.sha512"
+  ],
+  "logs": []
+}
