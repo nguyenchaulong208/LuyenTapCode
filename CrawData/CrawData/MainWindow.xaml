@@ -17,19 +17,19 @@
             <ColumnDefinition Width="*" />
         </Grid.ColumnDefinitions>
         <Grid Grid.Column="0" Grid.Row="0">
-            <Button>Load Data</Button>
+            <Button Click="Button_Click">Load Data</Button>
         </Grid>
-
+        <Grid Grid.Column="1" Grid.Row="0">
+            <Button Click="Button_Click">Add item into tree view</Button>
+        </Grid>
 
         <TreeView x:Name="treeMain" Grid.Column="0" Grid.Row="1">
             <!--Tao TreeView Template de chua du lieu duoc add vao TreeView-->
             <TreeView.ItemTemplate>
                 <HierarchicalDataTemplate ItemsSource="{Binding Items}"> <!--Gan du lieu cua Items vao Template-->
                     <!--Gan cac thuoc tinh vao cac textblock/button/label-->
-                    <StackPanel Orientation="Horizontal">
-                        <TextBlock Text="{Binding name}" Margin="5,0"/>
-                        <Button Content="{Binding URL}"></Button>
-                    </StackPanel>
+                    <Button Click="Button_Click_2" Content="{Binding Name}" Tag="{Binding URL}">
+                        </Button>
 
 
                 </HierarchicalDataTemplate>
@@ -37,8 +37,10 @@
 
         </TreeView>
         <!--Tao WebView-->
-        <Wpf:WebView2 x:Name="webMain" Grid.Column="2" Grid.Row="1" Source="https://www.google.com" Margin="10,20,10,10"/>
-
+        <!--<Wpf:WebView2 x:Name="webMain" Grid.Column="2" Grid.Row="1" Source="https://www.google.com" Margin="10,20,10,10"/>-->
+        <TextBox x:Name="txtBox" Grid.Row="1" Grid.Column="1"></TextBox>
+        
+        
 
     </Grid>
 </Window>
