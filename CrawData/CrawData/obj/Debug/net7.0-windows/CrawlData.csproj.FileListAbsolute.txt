@@ -27,3 +27,4 @@ G:\GITHUB UPLOAD\LuyenTapCode\CrawData\CrawData\bin\Debug\net7.0-windows\Microso
 G:\GITHUB UPLOAD\LuyenTapCode\CrawData\CrawData\obj\Debug\net7.0-windows\CrawlData.csproj.AssemblyReference.cache
 G:\GITHUB UPLOAD\LuyenTapCode\CrawData\CrawData\obj\Debug\net7.0-windows\CrawlData_Content.g.cs
 G:\GITHUB UPLOAD\LuyenTapCode\CrawData\CrawData\obj\Debug\net7.0-windows\CrawlData.csproj.CopyComplete
+G:\GITHUB UPLOAD\LuyenTapCode\CrawData\CrawData\obj\Debug\net7.0-windows\CrawlData.sourcelink.json

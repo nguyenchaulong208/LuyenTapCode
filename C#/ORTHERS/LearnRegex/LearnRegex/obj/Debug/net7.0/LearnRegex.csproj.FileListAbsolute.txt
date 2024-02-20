@@ -1,0 +1,15 @@
+G:\GITHUB UPLOAD\LuyenTapCode\C#\ORTHERS\LearnRegex\LearnRegex\bin\Debug\net7.0\LearnRegex.exe
+G:\GITHUB UPLOAD\LuyenTapCode\C#\ORTHERS\LearnRegex\LearnRegex\bin\Debug\net7.0\LearnRegex.deps.json
+G:\GITHUB UPLOAD\LuyenTapCode\C#\ORTHERS\LearnRegex\LearnRegex\bin\Debug\net7.0\LearnRegex.runtimeconfig.json
+G:\GITHUB UPLOAD\LuyenTapCode\C#\ORTHERS\LearnRegex\LearnRegex\bin\Debug\net7.0\LearnRegex.dll
+G:\GITHUB UPLOAD\LuyenTapCode\C#\ORTHERS\LearnRegex\LearnRegex\bin\Debug\net7.0\LearnRegex.pdb
+G:\GITHUB UPLOAD\LuyenTapCode\C#\ORTHERS\LearnRegex\LearnRegex\obj\Debug\net7.0\LearnRegex.GeneratedMSBuildEditorConfig.editorconfig
+G:\GITHUB UPLOAD\LuyenTapCode\C#\ORTHERS\LearnRegex\LearnRegex\obj\Debug\net7.0\LearnRegex.AssemblyInfoInputs.cache
+G:\GITHUB UPLOAD\LuyenTapCode\C#\ORTHERS\LearnRegex\LearnRegex\obj\Debug\net7.0\LearnRegex.AssemblyInfo.cs
+G:\GITHUB UPLOAD\LuyenTapCode\C#\ORTHERS\LearnRegex\LearnRegex\obj\Debug\net7.0\LearnRegex.csproj.CoreCompileInputs.cache
+G:\GITHUB UPLOAD\LuyenTapCode\C#\ORTHERS\LearnRegex\LearnRegex\obj\Debug\net7.0\LearnRegex.sourcelink.json
+G:\GITHUB UPLOAD\LuyenTapCode\C#\ORTHERS\LearnRegex\LearnRegex\obj\Debug\net7.0\LearnRegex.dll
+G:\GITHUB UPLOAD\LuyenTapCode\C#\ORTHERS\LearnRegex\LearnRegex\obj\Debug\net7.0\refint\LearnRegex.dll
+G:\GITHUB UPLOAD\LuyenTapCode\C#\ORTHERS\LearnRegex\LearnRegex\obj\Debug\net7.0\LearnRegex.pdb
+G:\GITHUB UPLOAD\LuyenTapCode\C#\ORTHERS\LearnRegex\LearnRegex\obj\Debug\net7.0\LearnRegex.genruntimeconfig.cache
+G:\GITHUB UPLOAD\LuyenTapCode\C#\ORTHERS\LearnRegex\LearnRegex\obj\Debug\net7.0\ref\LearnRegex.dll
