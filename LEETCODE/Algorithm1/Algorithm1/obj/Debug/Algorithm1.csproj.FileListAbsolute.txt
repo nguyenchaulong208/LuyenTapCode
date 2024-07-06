@@ -1,0 +1,7 @@
+D:\Github Code\LuyenTapCode\LEETCODE\Algorithm1\Algorithm1\obj\Debug\Algorithm1.csproj.AssemblyReference.cache
+D:\Github Code\LuyenTapCode\LEETCODE\Algorithm1\Algorithm1\obj\Debug\Algorithm1.csproj.CoreCompileInputs.cache
+D:\Github Code\LuyenTapCode\LEETCODE\Algorithm1\Algorithm1\bin\Debug\Algorithm1.exe.config
+D:\Github Code\LuyenTapCode\LEETCODE\Algorithm1\Algorithm1\bin\Debug\Algorithm1.exe
+D:\Github Code\LuyenTapCode\LEETCODE\Algorithm1\Algorithm1\bin\Debug\Algorithm1.pdb
+D:\Github Code\LuyenTapCode\LEETCODE\Algorithm1\Algorithm1\obj\Debug\Algorithm1.exe
+D:\Github Code\LuyenTapCode\LEETCODE\Algorithm1\Algorithm1\obj\Debug\Algorithm1.pdb
