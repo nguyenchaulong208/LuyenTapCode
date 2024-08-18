@@ -1,0 +1,15 @@
+d:\Github Code\LuyenTapCode\LEETCODE\Palindrome_Number\Palindrome_Number\bin\Debug\net8.0\Palindrome_Number.exe
+d:\Github Code\LuyenTapCode\LEETCODE\Palindrome_Number\Palindrome_Number\bin\Debug\net8.0\Palindrome_Number.deps.json
+d:\Github Code\LuyenTapCode\LEETCODE\Palindrome_Number\Palindrome_Number\bin\Debug\net8.0\Palindrome_Number.runtimeconfig.json
+d:\Github Code\LuyenTapCode\LEETCODE\Palindrome_Number\Palindrome_Number\bin\Debug\net8.0\Palindrome_Number.dll
+d:\Github Code\LuyenTapCode\LEETCODE\Palindrome_Number\Palindrome_Number\bin\Debug\net8.0\Palindrome_Number.pdb
+d:\Github Code\LuyenTapCode\LEETCODE\Palindrome_Number\Palindrome_Number\obj\Debug\net8.0\Palindrome_Number.GeneratedMSBuildEditorConfig.editorconfig
+d:\Github Code\LuyenTapCode\LEETCODE\Palindrome_Number\Palindrome_Number\obj\Debug\net8.0\Palindrome_Number.AssemblyInfoInputs.cache
+d:\Github Code\LuyenTapCode\LEETCODE\Palindrome_Number\Palindrome_Number\obj\Debug\net8.0\Palindrome_Number.AssemblyInfo.cs
+d:\Github Code\LuyenTapCode\LEETCODE\Palindrome_Number\Palindrome_Number\obj\Debug\net8.0\Palindrome_Number.csproj.CoreCompileInputs.cache
+d:\Github Code\LuyenTapCode\LEETCODE\Palindrome_Number\Palindrome_Number\obj\Debug\net8.0\Palindrome_Number.sourcelink.json
+d:\Github Code\LuyenTapCode\LEETCODE\Palindrome_Number\Palindrome_Number\obj\Debug\net8.0\Palindrome_Number.dll
+d:\Github Code\LuyenTapCode\LEETCODE\Palindrome_Number\Palindrome_Number\obj\Debug\net8.0\refint\Palindrome_Number.dll
+d:\Github Code\LuyenTapCode\LEETCODE\Palindrome_Number\Palindrome_Number\obj\Debug\net8.0\Palindrome_Number.pdb
+d:\Github Code\LuyenTapCode\LEETCODE\Palindrome_Number\Palindrome_Number\obj\Debug\net8.0\Palindrome_Number.genruntimeconfig.cache
+d:\Github Code\LuyenTapCode\LEETCODE\Palindrome_Number\Palindrome_Number\obj\Debug\net8.0\ref\Palindrome_Number.dll
